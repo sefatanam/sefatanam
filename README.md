@@ -29,3 +29,5 @@
    ]
 }
 ```
+- 💬 About my work, project, interest [Portfolio](https://sefatanam.github.io/me/).
+- 📫 How to reach me: [email](mailto:sefatanam@outlook.com)
