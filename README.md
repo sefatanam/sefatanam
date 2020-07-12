@@ -13,7 +13,7 @@
 {
    "languages":["JavaScript", "C#"],
    "backend":[".NET Core"],
-   "frontend":["react", "jQuery","Angular"]
+   "frontend":["React","jQuery","Angular","Blazor"]
 }
 ```
 
