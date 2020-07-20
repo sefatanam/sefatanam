@@ -1,5 +1,7 @@
 # Hi there 👋, I'm [Sefat Anam!](sefatanam.github.io/me) 
 
+<br />
+
  <a href="https://www.linkedin.com/in/SefatAnam">
    <img align="left" alt="Sefat's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
  </a>
@@ -12,10 +14,10 @@
  <a href="https://leetcode.com/sefatanam/">
    <img align="left" alt="Sefat's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
  </a>
+ 
+<br />
 
-
-<br/>
-
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/xTiTnvMb8gkmBvwFiM/giphy.gif" />
 A self-taught Full-stack developer. Love to develop cross-platform desktop, web & phone application. Feel comfortable to work with new technologies
 
 
