@@ -30,8 +30,7 @@ A self-taught Full-stack developer. Love to develop cross-platform desktop, web 
    "backend":[".NET Core"],
    "frontend":["React.js","jQuery","Angular","Blazor"],
    "framework":["ASP.NET MVC","React Native"]
-   "database": ["MSSQL", "SQLite","MongoDB"],
-   "tools": ["Adobe XD","Figma"],
+   "database" : ["MSSQL", "SQLite","MongoDB"],
 }
 ```
 
