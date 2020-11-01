@@ -34,19 +34,6 @@ A self-taught Full-stack developer. Love to develop cross-platform desktop, web 
 }
 ```
 
-## :tada: Achievements
-
-```json
-{
-   "achievements":[
-      {
-         "position":"HackTheCode Contest-01 Winner",
-         "event":"Google Cloud DevFest'19, DIU,Dhaka"
-      }
-   ]
-}
-```
-
 ![Sefat's github stats](https://github-readme-stats.vercel.app/api?username=sefatanam)
 
 
