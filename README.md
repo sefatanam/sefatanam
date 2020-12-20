@@ -35,6 +35,7 @@ A self-taught Full-stack developer. Love to develop cross-platform desktop, web 
 ```
 
 ![Sefat's github stats](https://github-readme-stats.vercel.app/api?username=sefatanam)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sefatanam&layout=compact)](https://github.com/sefatanam/sefatanam)
 
 
 - 💬 About my work, project, interest [Portfolio](https://sefatanam.netlify.app).
