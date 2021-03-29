@@ -26,11 +26,11 @@ A self-taught Full-stack developer. Love to develop cross-platform desktop, web 
 
 ```json
 {
-   "languages":["JavaScript", "C#","TypeScript"],
-   "backend":[".NET Core"],
-   "frontend":["React.js","jQuery","Angular","Blazor"],
-   "framework":["ASP.NET MVC","ASP.NET Core MVC", "React Native"],
-   "database" :["MSSQL", "SQLite","MongoDB"],
+   "languages":[ "C#", "JavaScript", "TypeScript" ],
+   "backend" : [ ".NET Core" ],
+   "frontend": [ "React.js","jQuery","Angular" ],
+   "framework":[ "ASP.NET Core WebApi", "ASP.NET Core MVC", "ASP.NET MVC", "React Native" ],
+   "database" :[ "MSSQL", "SQLite","MongoDB" ],
 }
 ```
 
