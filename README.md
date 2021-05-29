@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sefatanam" alt="sefatanam" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sefatanam" target="blank"><img src="https://img.shields.io/twitter/follow/sefatanam?logo=twitter&style=for-the-badge" alt="sefatanam" /></a> </p>
-
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/xTiTnvMb8gkmBvwFiM/giphy.gif" />
 - 🌱 I’m currently learning **Dart & Flutter**
 
 - 👨‍💻 All of my projects are available at [sefatanam.netlify.com](sefatanam.netlify.com)
