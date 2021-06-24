@@ -16,9 +16,7 @@
 
 - 📫 How to reach me **sefatanam@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/dhusf6](https://rb.gy/dhusf6)
-
-- ⚡ Fun fact **I'm too slow in code, fast in findout solution. Reverse.**
+- 📄 Know about my experiences [https://rb.gy/dhusf6](https://tinyurl.com/resumeofsefat)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
