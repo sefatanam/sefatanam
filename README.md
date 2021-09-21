@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sefat Anam</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"> I'm Sefat Anam</h1>
+
 <p align="center">A self-learned full-stack developer. Love to develop cross-platform desktop, web & phone application. Feel free to work with new technologies.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sefatanam&label=Profile%20views&color=0e75b6&style=flat" alt="sefatanam" /> </p>
