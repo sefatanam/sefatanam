@@ -37,8 +37,9 @@
 
 <table>
 <tr>
+ <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sefatanam&" alt="sefatanam" /></td>
  <td><img align="center" src="https://github-stats-alpha.vercel.app/api/?username=sefatanam&tc=333&ic=333" alt="sefatanam"/></td>
-<td><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sefatanam&" alt="sefatanam" /></td>
+
 </tr>
 </table>
 
