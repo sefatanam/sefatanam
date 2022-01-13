@@ -23,11 +23,10 @@ Self-learned full-stack developer. Have an open-source community @nixgram on Git
 
 - 🔍 Looking for contributor for [ZCommerce](https://github.com/sefatanam/ZCommerce)
 
-- 💬 Ask me about **ASP.NET Core, Angular & Flutter**
+- 💬 Ask me about **ASP.NET Core, Angular & Ionic**
 
 - 📫 How to reach me via email [sefatanam@gmail.com](sefatanam@gmail.com)
 
-- 📄 Know about my experiences [Download Resume](https://tinyurl.com/resumeofsefat)
 
 ### Connect with me
 <p align="left">
