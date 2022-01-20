@@ -10,7 +10,7 @@
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
 
-Self-learned full-stack developer. Have an open-source community @nixgram on GitHub to help junior geeks. Work with versatile technology because that's my dream. Try to build up a habit to know what's going on under the hood until things do not seem like magic. Ask me about .NET, Angular, React & Ionic. Love to develop cross-platform desktop, web & phone application. Currently working in [AITS Idea Ltd](https://github.com/AITSidea) with .NET5, Angular & Ionic.
+Self-learned full-stack developer. Have an open-source community [@nixgram](https://github.com/nixgram) on GitHub to help junior geeks. Work with versatile technology because that's my dream. Try to build up a habit to know what's going on under the hood until things do not seem like magic. Ask me about .NET, Angular, React & Ionic. Love ❤ to develop cross-platform desktop, web & phone application.
 
 
 
