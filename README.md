@@ -11,7 +11,7 @@ Self-learned full-stack developer. Have an open-source community [@nixgram](http
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/xTiTnvMb8gkmBvwFiM/giphy.gif" />
 
-- 🌱 I’m currently learning **Dart & Flutter**
+- 🌱 I’m currently learning **Web3, Blockchain**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/sefatanam/works)
 
