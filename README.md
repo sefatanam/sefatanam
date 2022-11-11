@@ -4,7 +4,7 @@
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
 
-Software engineer with close to 3 years of industrial experience in Designing, Development, Deployment, and maintenance of web and mobile apps based on Angular, Ionic, and NodeJS, NET5 & AWS-Amplify.
+Software Engineer with close to 3 years of industrial experience in Designing, Development, Deployment, and maintenance of web and mobile apps based on Angular, Ionic, and NodeJS, NET5 & AWS-Amplify.
 
 Experience in Programming using Object Oriented Programming (OOPs concept), SOLID design pattern, deploying Angular & NodeJs to AWS EC2, uploading content to AWS S3, and Running docker images from Azure Container Registry & Azure VM. Writing REST API in NodeJS(MongoDB) & NestJS(TypeORM). Making custom reusable components using Angular Material & CDK. Making npm packages. Also, work with graphic API in Angular. Writing e2e test in Cypress. Improving app load time, performance & accessibility in web applications in Angular.
 
@@ -15,15 +15,11 @@ Have an open-source community @nixgram on GitHub to help junior geeks. Work with
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/xTiTnvMb8gkmBvwFiM/giphy.gif" />
 
-- 🌱 I’m currently learning **Web3, Blockchain**
-
-- 👨‍💻 All of my projects are available at [Here](https://github.com/sefatanam/works)
-
-- 🔍 Looking for contributor for [ZCommerce](https://github.com/sefatanam/ZCommerce)
-
-- 💬 Ask me about **ASP.NET Core, Angular & Ionic**
-
-- 📫 How to reach me via email [sefatanam@gmail.com](sefatanam@gmail.com)
+- 🌱 I’m currently learning **React & Go**
+- 👨‍💻 All of my projects are available at [here check it out](https://github.com/sefatanam/works)
+- 🔍 Looking for contributor for [ZCommerce](https://github.com/sefatanam/ZCommerce), [Nixng](https://github.com/nixgram)
+- 💬 Ask me about **Angular, Ionic, NodeJS & NestJS**
+- 📫 Reach me via email **sefatanam@gmail.com**
 
 
  
