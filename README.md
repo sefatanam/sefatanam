@@ -8,7 +8,7 @@ Software Engineer with close to 3 years of industrial experience in Designing, D
 
 Experience in Programming using Object Oriented Programming (OOPs concept), SOLID design pattern, deploying Angular & NodeJs to AWS EC2, uploading content to AWS S3, and Running docker images from Azure Container Registry & Azure VM. Writing REST API in NodeJS(MongoDB) & NestJS(TypeORM). Making custom reusable components using Angular Material & CDK. Making npm packages. Also, work with graphic API in Angular. Writing e2e test in Cypress. Improving app load time, performance & accessibility in web applications in Angular.
 
-Have an open-source community @nixgram on GitHub to help junior geeks. Work with versatile technology because that's my dream. Try to build up a habit to know what's going on under the hood until things do not seem like magic. Ask me about .NET, Angular, React & Ionic.
+Have an open-source community [@nixgram](https://github.com/nixgram) on GitHub to help junior geeks. Work with versatile technology because that's my dream. Try to build up a habit to know what's going on under the hood until things do not seem like magic. Ask me about .NET, Angular, React & Ionic.
 
 
 
