@@ -15,7 +15,7 @@ Have an open-source community [@nixgram](https://github.com/nixgram) on GitHub t
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/xTiTnvMb8gkmBvwFiM/giphy.gif" />
 
-- 🌱 I’m currently learning **React & Go**
+- 🌱 I’m currently learning **React, NextJS & Go**
 - 👨‍💻 All of my projects are available at [here check it out](https://github.com/sefatanam/works)
 - 🔍 Looking for contributor for [ZCommerce](https://github.com/sefatanam/ZCommerce), [Nixng](https://github.com/nixgram)
 - 💬 Ask me about **Angular, Ionic, NodeJS & NestJS**
