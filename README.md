@@ -4,11 +4,11 @@
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
 
-Software Engineer with industrial experience in Designing, Development, Deployment and maintenance of web and mobile apps based on Angular, Ionic, and NodeJS & AWS-Amplify.
+As a Software Engineer, I have strong industrial background in designing, developing, deploying, and maintaining a wide range of web and mobile applications. My expertise lies in utilizing technologies such as Angular, Ionic, and NodeJS with a proficiency in AWS-Amplify for cloud-based deployments.I have solid foundation in Object-Oriented Programming (OOPs) concepts and have applied SOLID design patterns to create robust and maintainable software solutions.In addition to backend development, I excel in writing REST APIs using NodeJS with MongoDB and NestJS with TypeORM, ensuring efficient and secure data management. As part of my dedication to software quality, I am well-versed in writing e2e tests using Cypress, ensuring comprehensive test coverage and a high level of reliability for the applications I develop.
 
-Experience in Programming using Object Oriented Programming (OOPs concept), SOLID design pattern, deploying Angular & NodeJs to AWS EC2, uploading content to AWS S3, and Running docker images from Azure Container Registry & Azure VM. Writing REST API in NodeJS(MongoDB) & NestJS(TypeORM). Making custom reusable components using Angular Material & CDK. Making npm packages. Also, work with graphic API in Angular. Writing e2e test in Cypress. Improving app load time, performance & accessibility in web applications in Angular.
+Furthermore, I take a proactive approach to improving app load time, performance, and accessibility in Angular web applications. My goal is to create user-friendly and efficient software that caters to a diverse audience.Overall, my industrial experience and diverse skill set as a Software Engineer make me well-equipped to tackle complex challenges, deliver high-quality applications, and contribute meaningfully to any software development team.
 
-Have an open-source community [@nixgram](https://github.com/nixgram) on GitHub to help junior geeks. Work with versatile technology because that's my dream. Try to build up a habit to know what's going on under the hood until things do not seem like magic. Ask me about .NET, Angular, React & Ionic.<br> **I'm not a CP fanboy.**
+Have an open-source community [@nixgram](https://github.com/nixgram) on GitHub to help junior geeks. Work with versatile technology because that's my dream. Try to build up a habit to know what's going on under the hood until things do not seem like magic.<br> **I'm not a CP fanboy.**
 
 
 
