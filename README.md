@@ -16,9 +16,9 @@ Have an open-source community [@nixgram](https://github.com/nixgram) on GitHub t
  <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/xTiTnvMb8gkmBvwFiM/giphy.gif"  />
 
 
-- 🌱 I’m currently learning React, NextJS & Go
+- 🌱 I’m currently learning __Tauri & Rust__
 - 👨‍💻 Projects are [here check it out](https://sefatanam.vercel.app/projects)
 - 🔍 Looking for contributor for [ZCommerce](https://github.com/sefatanam/ZCommerce), [Nixng](https://github.com/nixgram)
-- 💬 Ask me about Angular, Ionic, NodeJS & NestJS
-- 📫 Reach me via email sefatanam@gmail.com
+- 💬 Ask me about __Angular, Ionic, NodeJS & NestJS__
+- 📫 Reach me via email __sefatanam@gmail.com__
 
