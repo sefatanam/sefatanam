@@ -13,7 +13,7 @@ Have an open-source community [@nixgram](https://github.com/nixgram) on GitHub t
 
 
 
- <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/xTiTnvMb8gkmBvwFiM/giphy.gif"  />
+ # <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/xTiTnvMb8gkmBvwFiM/giphy.gif"  />
 
 
 - 🌱 I’m currently learning __Tauri & Rust__
