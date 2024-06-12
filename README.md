@@ -7,5 +7,5 @@
 With a robust industrial background, I specialize in designing, developing, deploying, and maintaining diverse web and mobile applications. My expertise spans across Angular, Ionic, and NodeJS, coupled with a proficiency in AWS-Amplify for cloud-based deployments. I'm dedicated to enhancing app load time, performance, and accessibility in Angular web applications, aiming to create user-friendly and efficient software accessible to diverse audiences. Seeking opportunities to engage with versatile technologies is my passion. Understanding the mechanics beneath the surface drives my curiosity.
 
 - 🌱 Currently learning __Golang__
-- 💬 Ask me about __Angular, Ionic, NodeJS & NestJS__
+- 💬 Ask me about __Angular, Ionic, NodeJS, NestJS & .NET5 (partially)__
 - ℹ️ For More Checkout [my portfolio](https://sefatanam.vercel.app/home)
