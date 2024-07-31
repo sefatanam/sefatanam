@@ -5,7 +5,3 @@
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
 
 I create and manage web and mobile apps, making sure they are fast, easy to use, and accessible for everyone. I love learning about new technologies and figuring out how things work.
-
-- 🌱 Currently learning __Golang__
-- 💬 Ask me about __Angular, Ionic, NodeJS, NestJS & .NET5 (partially)__
-- ℹ️ For More Checkout [my portfolio](https://sefatanam.vercel.app/home)
