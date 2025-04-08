@@ -4,4 +4,4 @@
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
 
-I create and manage web and mobile apps, making sure they are fast, easy to use, and accessible for everyone. I love learning about new technologies and figuring out how things work.
+I've been building web and mobile apps, making sure they're fast, easy to use, and work well for everyone. I enjoy learning new tech and figuring out how things work behind the scenes.
