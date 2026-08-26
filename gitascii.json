@@ -26,12 +26,12 @@
       "widgetId": "ascii-art",
       "name": "Ascii-art Widget",
       "position": {
-        "x": 8,
-        "y": 114
+        "x": 14,
+        "y": 121
       },
       "size": {
-        "width": 280,
-        "height": 280
+        "width": 264,
+        "height": 264
       },
       "config": {
         "detail": "low",
@@ -5195,7 +5195,7 @@
           ]
         ],
         "accentColor": "#ffb800",
-        "hideBorder": true,
+        "hideBorder": false,
         "showTitle": false,
         "contrast": 15,
         "brightness": -10,
@@ -5214,19 +5214,19 @@
       "widgetId": "terminal-info",
       "name": "Terminal-info Widget",
       "position": {
-        "x": 286,
+        "x": 294,
         "y": 120
       },
       "size": {
-        "width": 504,
-        "height": 280
+        "width": 496,
+        "height": 266
       },
       "config": {
         "animationType": "typewriter",
         "animationPreviewKey": 11,
         "animationDuration": 600,
         "showTitle": false,
-        "hideBorder": true,
+        "hideBorder": false,
         "backgroundColor": "github-auto"
       },
       "locked": false,
