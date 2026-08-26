@@ -6,7 +6,7 @@
 
 <a href="https://gitascii.com">
   <img
-    src="https://gitascii.com/api/sefatanam?v=1787740501881"
+    src="https://gitascii.com/api/sefatanam?v=1787758384989"
     alt="GitAscii Widget"
     width="100%"
   />
