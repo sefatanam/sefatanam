@@ -2,32 +2,11 @@
   "username": "sefatanam",
   "widgets": [
     {
-      "widgetId": "header",
-      "name": "Header Widget",
-      "position": {
-        "x": 0,
-        "y": 0
-      },
-      "size": {
-        "width": 800,
-        "height": 90
-      },
-      "config": {
-        "animationType": "fade-in",
-        "animationPreviewKey": 1,
-        "backgroundColor": "github-auto"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 1,
-      "instanceId": "widget_1787757578523_0"
-    },
-    {
       "widgetId": "ascii-art",
       "name": "Ascii-art Widget",
       "position": {
-        "x": 14,
-        "y": 121
+        "x": 10,
+        "y": 16
       },
       "size": {
         "width": 264,
@@ -5214,12 +5193,12 @@
       "widgetId": "terminal-info",
       "name": "Terminal-info Widget",
       "position": {
-        "x": 294,
-        "y": 120
+        "x": 282,
+        "y": 16
       },
       "size": {
-        "width": 496,
-        "height": 266
+        "width": 504,
+        "height": 264
       },
       "config": {
         "animationType": "typewriter",
@@ -5240,7 +5219,7 @@
       "name": "Surveillance-transmission Widget",
       "position": {
         "x": 10,
-        "y": 394
+        "y": 288
       },
       "size": {
         "width": 780,
