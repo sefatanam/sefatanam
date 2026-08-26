@@ -14,7 +14,8 @@
       },
       "config": {
         "animationType": "fade-in",
-        "animationPreviewKey": 1
+        "animationPreviewKey": 1,
+        "backgroundColor": "github-auto"
       },
       "locked": false,
       "visible": true,
@@ -26,7 +27,7 @@
       "name": "Ascii-art Widget",
       "position": {
         "x": 8,
-        "y": 136
+        "y": 114
       },
       "size": {
         "width": 280,
@@ -5194,10 +5195,15 @@
           ]
         ],
         "accentColor": "#ffb800",
-        "hideBorder": false,
+        "hideBorder": true,
         "showTitle": false,
         "contrast": 15,
-        "brightness": -10
+        "brightness": -10,
+        "colorMode": "color",
+        "animationType": "typewriter",
+        "animationPreviewKey": 2,
+        "animationDuration": 600,
+        "backgroundColor": "github-auto"
       },
       "locked": false,
       "visible": true,
@@ -5208,8 +5214,8 @@
       "widgetId": "terminal-info",
       "name": "Terminal-info Widget",
       "position": {
-        "x": 288,
-        "y": 152
+        "x": 286,
+        "y": 120
       },
       "size": {
         "width": 504,
@@ -5220,7 +5226,8 @@
         "animationPreviewKey": 11,
         "animationDuration": 600,
         "showTitle": false,
-        "hideBorder": true
+        "hideBorder": true,
+        "backgroundColor": "github-auto"
       },
       "locked": false,
       "visible": true,
@@ -5228,46 +5235,24 @@
       "instanceId": "widget_1787757578523_2"
     },
     {
-      "instanceId": "widget_1787758114467",
-      "widgetId": "surveillance-title",
-      "name": "Surveillance-title Widget",
-      "position": {
-        "x": 20,
-        "y": 106
-      },
-      "size": {
-        "width": 780,
-        "height": 30
-      },
-      "config": {
-        "accentColor": "#ffb454",
-        "customTitle": "ESTABLISH UPLINK",
-        "secondaryColor": "#ff5555",
-        "ledColor": "#ffb454",
-        "title": "ESTABLISH UPLINK",
-        "customRef": "REF://CONTACT.SYS",
-        "referenceTag": "REF://CONTACT.SYS"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 4
-    },
-    {
       "instanceId": "widget_1787758154107",
       "widgetId": "surveillance-transmission",
       "name": "Surveillance-transmission Widget",
       "position": {
         "x": 10,
-        "y": 424
+        "y": 394
       },
       "size": {
         "width": 780,
         "height": 160
       },
       "config": {
-        "accentColor": "#55ffff",
+        "accentColor": "#ffb454",
         "customTitle": "Incoming Transmission",
-        "showTitle": false
+        "showTitle": false,
+        "backgroundColor": "github-auto",
+        "secondaryColor": "#ff5555",
+        "ledColor": "#ffb454"
       },
       "locked": false,
       "visible": true,
@@ -5275,7 +5260,7 @@
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#060606",
+    "backgroundColor": "github-auto",
     "textColor": "#e5e5e5",
     "accentColor": "#c5ff4a",
     "borderColor": "#252525",
